@@ -13,7 +13,7 @@ Mariana Vazquez De luna:Líder
 FLUJO DE TRABAJO:
 
 A)Estructura HTML básica: 
-Cada producto está dentro de un <div class="producto"> con su imagen, nombre y precio.
+Cada producto está dentro de un div class="producto" (con su imagen, nombre y preciO).
 
 B)Estilos externos (CSS):
 
